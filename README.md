@@ -35,7 +35,7 @@ docker run -d --name ai-bot ai-masters-bot
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          ↓
 
-HTML страницы       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BeautifulSoup  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текст   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ChromaDB/FAISS
+HTML страницы       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BeautifulSoup  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текст   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 PDF учебные планы  &nbsp; pdfplumber    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чистка    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(через llama-index)
 
