@@ -26,9 +26,9 @@ docker run -d --name ai-bot ai-masters-bot
 
 Основан на библиотеке llama-index. Состоит из двух частей:
 
-- Retriever: Векторный поиск по документам
+- Retrieval: Векторный поиск по документам
 
-- Generator: GPT-4o-mini для генерации ответов
+- Generation: GPT-4o-mini для генерации ответов
 
 Также для каждого пользователя хранится свой контекст
 
