@@ -37,9 +37,15 @@ docker run -d --name ai-bot ai-masters-bot
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          ↓
 
-HTML страницы       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BeautifulSoup  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текст   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HTML страницы       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BeautifulSoup  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spacy   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(через llama-index)
 
-PDF учебные планы  &nbsp; pdfplumber    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чистка    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(через llama-index)
+PDF учебные планы  &nbsp; pdfplumber    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spacy    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(через llama-index)
+
+Обработка состоит из:
+1. Токенизация
+2. Фильтрация "мусора" и удаление стоп-слов
+3. Лемматизация
+4. Нормализация - приведение к нижнему регистру
 
 ### 3. Telegram Bot 
 Обработка сообщений пользователей
