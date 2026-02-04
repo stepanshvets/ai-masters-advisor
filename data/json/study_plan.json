@@ -1,0 +1,2335 @@
+{
+  "courses": [
+    {
+      "name": "Иностранный язык 2 сем",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Английский язык A1 / English A1",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Английский язык A2 / English A2",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Русский язык как иностранный / Russian as a foreign language",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Иностранный язык 1 сем",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Английский язык A1 / English A1",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Английский язык A2 / English A2",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Русский язык как иностранный / Russian as a foreign language",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Предпринимательская культура",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Создание и развитие технологического бизнеса",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Стартап-трек: от MVP до бизнеса",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Креативные технологии",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы концептуального мышления",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Мышление",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Critical Thinking Skills (Advanced)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Критическое мышление (продвинутый уровень)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "История и философия науки",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Иностранный язык / Foreign Language",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Иностранный язык / Foreign Language",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Элективные микромодули Soft Skills",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Хранение больших данных и Введение в МО (Python)",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое МО (Python) и Глубокое обучение",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Автоматическое машинное обучение",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Математическая статистика",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Графические интерфейсы",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Процессы и методологии разработки решений на основе ИИ",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладной анализ временных рядов",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Алгоритмы и структуры данных",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Программирование на С++",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обработка и генерация изображений",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инструменты разработки data-driven решений",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "UNIX/Linux системы",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Контейнеризация и оркестрация приложений",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продуктовые исследования",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Введение в большие языковые модели (LLM)",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Математика для машинного обучения и анализа данных",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Бизнес-аналитика для инженеров",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инжиниринг управления данными",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы глубокого обучения",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Практика применения машинного обучения",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Разработка веб-приложений (Python Backend)",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование систем машинного обучения (ML System Design)",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование микросервисов",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Базы данных",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии обработки естественного языка",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Вычисления на графических процессорах (GPU)",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Создание интеллектуальных агентов",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Языки программирования",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы машинного обучения",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инженерные практики в ML и анализе данных",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Дополнительные разделы машинного обучения",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое МО (Python) и Обработка изображений",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Автоматическая обработка текстов и Обработка изображений",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Автоматическая обработка текстов и Социальные сети",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обработка изображений и Компьютерное зрение",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Методология трансляционных исследований",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление проектами в Data Science",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Специальные главы биоинформатики",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Специальные главы геномики",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладная математика и статистика / Applied Math and Statistics",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "DevOps практики и инструменты",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Практики менторства и развития в Data Science",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление данными",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Сбор и разметка данных для машинного обучения",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Разработка приложений разговорного искусственного интеллекта",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Бизнес-анализ",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Программирование на Python (продвинутый уровень)",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Информационный поиск",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Распознавание и генерация речи",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продуктовый дизайн и прототипирование AI-решений",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии компьютерного зрения",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Нейросети в химии / Neural Networks in Chemistry",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "А/В тестирование",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление технологическим продуктом",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Безопасность ИИ",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Дополнительные разделы математики и алгоритмов",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование систем машинного обучения (ML System Design)",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Глубокое обучение на практике",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Глубокие генеративные модели (Deep Generative Models)",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии и практики MLOps",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обучение с подкреплением",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Компьютерное зрение (продвинутый уровень)",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы построения рекомендательных систем",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Системы обработки и анализа больших массивов данных",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии обработки естественного языка",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Интеллектуальные агенты и большие языковые модели",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инженерия данных",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Языки программирования для работы с данными",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Машинное обучение",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обработка естественного языка",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Задачи машинного обучения",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+        {
+      "name": "Хранение больших данных и Введение в МО (Python)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое МО (Python) и Глубокое обучение",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Автоматическое машинное обучение",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Бизнес-аналитика",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Математическая статистика",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Графические интерфейсы",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Процессы и методологии разработки решений на основе ИИ",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладной анализ временных рядов",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Алгоритмы и структуры данных",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Программирование на С++",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обработка и генерация изображений",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инструменты разработки data-driven решений",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "UNIX/Linux системы",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Контейнеризация и оркестрация приложений",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продуктовые исследования",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Введение в большие языковые модели (LLM)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инжиниринг управления данными",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладная математика для машинного обучения",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Разработка веб-приложений (Python Backend)",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Глубокое обучение",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование систем машинного обучения (ML System Design)",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование микросервисов",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладные инструменты разработки",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Базы данных",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии обработки естественного языка",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Мультимодальные генеративные модели искусственного интеллекта",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Вычисления на графических процессорах (GPU)",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Воркшоп по применению ИИ",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Мастерская по проектам для работы с данными",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Языки программирования. Продвинутый уровень",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое машинное обучение",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладные задачи машинного обучения",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое МО (Python) и Обработка изображений",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Автоматическая обработка текстов и Обработка изображений",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Автоматическая обработка текстов и Социальные сети",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обработка изображений и Компьютерное зрение",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Методология трансляционных исследований",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление проектами в Data Science",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Специальные главы биоинформатики",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Специальные главы геномики",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Прикладная математика и статистика / Applied Math and Statistics",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "DevOps практики и инструменты",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Практики менторства и развития в Data Science",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление данными",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Сбор и разметка данных для машинного обучения",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Разработка приложений разговорного искусственного интеллекта",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Бизнес-анализ",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Программирование на Python (продвинутый уровень)",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Информационный поиск",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Распознавание и генерация речи",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продуктовый дизайн и прототипирование AI-решений",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии компьютерного зрения",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Нейросети в химии / Neural Networks in Chemistry",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "А/В тестирование",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление технологическим продуктом",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Безопасность ИИ",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Дополнительные разделы математики и алгоритмов",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектирование систем машинного обучения (ML System Design)",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Глубокие генеративные модели (Deep Generative Models)",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии и практики MLOps",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Обучение с подкреплением",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Компьютерное зрение (продвинутый уровень)",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы построения рекомендательных систем",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Системы обработки и анализа больших массивов данных",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Технологии обработки естественного языка",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Воркшоп по ML",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Интеллектуальные агенты и большие языковые модели",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инженерия данных",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Языки программирования для работы с данными. Продвинутый уровень",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продвинутое машинное обучение - дополнительные главы",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Применение машинного обучения в доменных областях",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Глубокое обучение и обработка естественного языка",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+        {
+      "name": "Проектная практика",
+      "semester": 1,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Производственная, преддипломная практика",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектная практика",
+      "semester": 2,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Научно-исследовательская практика",
+      "semester": 2,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Производственная проектно-технологическая практика",
+      "semester": 3,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Производственная, научно-исследовательская практика",
+      "semester": 3,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Научно-исследовательская работа",
+      "semester": 4,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Проектная работа",
+      "semester": 4,
+      "credit_units": 12,
+      "hours": 432,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Подготовка к защите и защита ВКР",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Иностранный язык в профессиональной деятельности / Foreign Language for Professional activity",
+      "semester": 3,
+      "credit_units": 4,
+      "hours": 144,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы финансовой грамотности",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Целеполагание в современном мире",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление стрессом и профилактика выгорания",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление мотивацией",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Тайм-менеджмент",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Сложная коммуникация",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление конфликтами",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Современная бизнес-коммуникация",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Межкультурная коммуникация",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Современное лидерство",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Практики совместной работы и принятия решений",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Работа в удаленных командах",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Сторителлинг",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Самопрезентация и питчинг",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Выступления для молодых ученых",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Стратегии эффективных переговоров с работодателем",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Развитие карьеры в современной профессиональной среде",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Карьера в IT",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Медиация и урегулирование разногласий / Mediation and dispute resolution",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Инструменты принятия решений / Art & math of decision making",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Управление стрессом / Stress management",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Эмпатия и ненасильственное общение / Empathy and non-violent communication",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Публичные выступления в профессиональной деятельности / Pitches and speeches",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Планирование и изменение карьерной траектории / Launching and relaunching your career",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Основы публичных выступлений",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Публичные выступления в онлайн-формате",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Техники ответов на вопросы в публичных выступлениях",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Искусственный интеллект"
+    },
+    {
+      "name": "Продуктовые исследования",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Процессы и методологии разработки решений на основе ИИ",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Монетизация ИИ-продуктов",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Стратегический продуктовый менеджмент",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Продуктовый дизайн и прототипирование AI-решений",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Математика для машинного обучения и анализа данных",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Математическая статистика",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы программирования на Python",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы машинного обучения",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы глубокого обучения",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Введение в большие языковые модели (LLM)",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Прикладной анализ временных рядов",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Инженерные практики в ML и анализе данных",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Прикладные инструменты разработки",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Разработка веб-приложений (Python Backend)",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Проектирование микросервисов",
+      "semester": 1,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Бизнес-анализ",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Практики менторства и развития в Data Science",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление проектами в Data Science",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Метрики и аналитика продукта",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление продуктовым портфелем",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы маркетинга для ИИ-продуктов",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление командами и проектами в ИИ",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Фандрайзинг и бизнес-планирование",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Инженерия данных",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Программирование на Python (продвинутый уровень)",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Прикладные задачи машинного обучения",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Данные в финансовом секторе",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Финансовые технологии",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Глубокое обучение на практике",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Проектирование систем машинного обучения (ML System Design)",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Обработка естественного языка",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Интеллектуальные агенты и большие языковые модели",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы построения рекомендательных систем",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Технологии компьютерного зрения",
+      "semester": 2,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Процессы и методологии разработки решений на основе ИИ",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Продуктовый дизайн и прототипирование AI-решений",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Стратегический продуктовый менеджмент",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Монетизация ИИ-продуктов",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Математика для машинного обучения и анализа данных",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Математическая статистика",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы машинного обучения",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы глубокого обучения",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Введение в большие языковые модели (LLM)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Прикладной анализ временных рядов",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Инженерные практики в ML и анализе данных",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Прикладные инструменты разработки",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Разработка веб-приложений (Python Backend)",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Проектирование микросервисов",
+      "semester": 3,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Бизнес-анализ",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Практики менторства и развития в Data Science",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление проектами в Data Science",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Метрики и аналитика продукта",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление продуктовым портфелем",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы маркетинга для ИИ-продуктов",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление командами и проектами в ИИ",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Правовые аспекты разработки и использования ИИ",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Фандрайзинг и бизнес-планирование",
+      "semester": 4,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Элективные микромодули Soft Skills",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Креативные технологии",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы концептуального мышления",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Предпринимательская культура",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Стартап-трек: от MVP до бизнеса",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Создание и развитие технологического бизнеса",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Мышление",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Критическое мышление (продвинутый уровень)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced)",
+      "semester": 3,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Иностранный язык (маг 2025/2026). 2 семестр",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Навыки презентации на английском языке / Presentation skills",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Русский язык как иностранный / Russian as a foreign language",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Английский язык B1.1 / English B1.1",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Английский язык A2 / English A2",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Английский язык A1 / English A1",
+      "semester": 2,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Иностранный язык (маг 2025/2026). 1 семестр",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Английский язык A1 / English A1",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Английский язык A2 / English A2",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Английский язык B1.1 / English B1.1",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Русский язык как иностранный / Russian as a foreign language",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Научное письмо на английском языке / Scientific writing",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Производственная, преддипломная практика",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Производственная, технологическая (проектно-технологическая) практика",
+      "semester": 1,
+      "credit_units": 9,
+      "hours": 324,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Производственная, технологическая (проектно-технологическая) практика",
+      "semester": 2,
+      "credit_units": 9,
+      "hours": 324,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Производственная, технологическая (проектно-технологическая) практика",
+      "semester": 3,
+      "credit_units": 9,
+      "hours": 324,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Производственная, технологическая (проектно-технологическая) практика",
+      "semester": 4,
+      "credit_units": 9,
+      "hours": 324,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Подготовка к защите и защита ВКР",
+      "semester": 4,
+      "credit_units": 6,
+      "hours": 216,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+      "semester": 1,
+      "credit_units": 3,
+      "hours": 108,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление мотивацией",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Инструменты принятия решений / Art & math of decision making",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Медиация и урегулирование разногласий / Mediation and dispute resolution",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Развитие карьеры в современной профессиональной среде",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Выступления для молодых ученых",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Самопрезентация и питчинг",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Современное лидерство",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Межкультурная коммуникация",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Работа в удаленных командах",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Публичные выступления в онлайн-формате",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Техники ответов на вопросы в публичных выступлениях",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Публичные выступления в профессиональной деятельности / Pitches and speeches",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Планирование и изменение карьерной траектории / Launching and relaunching your career",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы публичных выступлений",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Сторителлинг",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Стратегии эффективных переговоров с работодателем",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление стрессом / Stress management",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Практики совместной работы и принятия решений",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Сложная коммуникация",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Основы финансовой грамотности",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Целеполагание в современном мире",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление стрессом и профилактика выгорания",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Тайм-менеджмент",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Управление конфликтами",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Современная бизнес-коммуникация",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Карьера в IT",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    },
+    {
+      "name": "Эмпатичная коммуникация / Empathetic communication",
+      "semester": 1,
+      "credit_units": 1,
+      "hours": 36,
+      "program": "Управление ИИ-продуктами/AI Product"
+    }
+  ]
+}
